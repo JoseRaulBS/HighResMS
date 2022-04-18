@@ -1,5 +1,5 @@
 # HighResMS
-_High Resolution Software for Mass Spectrometry
+_High Resolution Software for Mass Spectrometry_
 
 Welcome to _HighResMS_, a mass calculator for high resolution mass spectrometry.
 
