@@ -26,7 +26,7 @@ Required Packages:
 
 # Quickstart Guide
 
-Download all the scripts and save them in the same folder. Just launch the "app.py" script from your favorite IDLE and the app will launch.
+Download all the scripts and save them in the same folder. Just launch the "app.py" script from your favorite IDE and the app will launch.
 
 If you are a Windows 10+ user and want to simplify the process, you can try downloading the optional executable and simply launch it (**antivirus may indicate risks since it is not a digitally signed application**). Due to GitHub file size limitations, I'll be happy to email you the file (see contact info) as soon as possible.
 
