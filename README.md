@@ -1,7 +1,7 @@
 # HighResMS
 _High Resolution Software for Mass Spectrometry_
 
-Welcome to _HighResMS_, a mass calculator for high resolution mass spectrometry.
+Welcome to _HighResMS_, a mass calculator for high resolution mass spectrometry (HRMS).
 
 This application has been created with the intention of helping detection using techniques such as **High Resolution GC-MS and LC-MS**, providing weight values of the target molecules. It can indicate the target formula, including deuterium, as well as the charges and adducts that may be present depending on the selected ionization mode. 
 
